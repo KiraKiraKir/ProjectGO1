@@ -10,7 +10,7 @@
 
 git clone https://github.com/KiraKiraKir/ProjectGO1
 
-cd Module1
+cd ProjectGO1
 
 Запустите сервер:
 
